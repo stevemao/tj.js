@@ -1,0 +1,22 @@
+{
+  "name": "tj.js",
+  "version": "1.0.0",
+  "description": "Your very own tj",
+  "bin": "tj.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevemao/tj.js.git"
+  },
+  "keywords": [
+    "tj",
+    "ascii",
+    "color",
+    "digital"
+  ],
+  "author": "Steve Mao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevemao/tj.js/issues"
+  },
+  "homepage": "https://github.com/stevemao/tj.js#readme"
+}
